@@ -2,11 +2,11 @@
 # Financial Planning Tools and API Simulations
 
 ## Overview
-This program contains code with examples of accessing financial data through an API source (Free Crypto API and Alpaca SDK API) and implementing the data to 
-run various financial planning tools such as current value, future projections, and financial projections for retirement planning at 30 years and 10 years.
+This program [financial_planning_tools.ipynb] contains code with examples of accessing financial data through an API source (Free Crypto API and Alpaca SDK API) and implementing the data to run various financial planning tools such as current value, future projections, and financial projections for retirement planning at 30 years and 10 years.
 
 ## Technologies Used
 The libraries and dependencies used in this program are listed in the first cell of the program which are: OS, Requests, JSON, Pandas, DOTENV, alpaca_trade_api, and MCForecastTools(python file for this is included with program folder). 
+
 
 ## Program Layout
 This program is divided into two parts which are as follows:
