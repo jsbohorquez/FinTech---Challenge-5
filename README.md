@@ -1,5 +1,5 @@
 ## Challenge-5 
-# Financial Planning Tools and API Simulations
+# Financial Planning Tools and API Sims
 
 ## Overview
 This program [financial_planning_tools.ipynb] contains code with examples of accessing financial data through an API source (Free Crypto API and Alpaca SDK API) and implementing the data to run various financial planning tools such as current value, future projections, and financial projections for retirement planning at 30 years and 10 years.
